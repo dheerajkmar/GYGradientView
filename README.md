@@ -30,7 +30,7 @@ dependencies: [
 
 **Manually:**
 
-If you prefer not to use any of the aforementioned dependency managers, you can integrate Alamofire into your project manually.
+If you prefer not to use any of the aforementioned dependency managers, you can integrate GYGradientView into your project manually.
 
 Add GYGradientView.swift to your project And that's it!
 

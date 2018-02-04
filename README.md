@@ -16,7 +16,9 @@ GYGradientView is a simple to use view that uses the new IBDesignable and IBInsp
 
 # Installation
 
-The [Swift Package Manager](https://swift.org/package-manager/) is a tool for automating the distribution of Swift code and is integrated into the swift compiler. It is in early development, but Alamofire does support its use on supported platforms.
+The [Swift Package Manager](https://swift.org/package-manager/) is a tool for automating the distribution of Swift code and is integrated into the swift compiler.
+
+Once you have your Swift package set up, adding GYGradientView as a dependency is as easy as adding it to the dependencies value of your Package.swift.
 
 **Swift 4:**
 
@@ -35,6 +37,7 @@ Add GYGradientView.swift to your project And that's it!
 # Authors
 
 [Guillermo Cique](https://github.com/GuiyeC) - Initial work 
+
 Yhondri J. Acosta Novas
 
 # License
